@@ -1,0 +1,76 @@
+[
+
+    {
+        "title" : "It Ends with Us: A Novel" , 
+        "author" : "Collen Hoover",
+        "category" : "novel",
+
+   },
+    {
+        "title" : "To Risk It All: Nine Conflicts and Crucible of Decision" ,
+        "author" : "Admiral James Stavridis",
+        "category" : "History"
+        
+   }
+   ,
+    {
+        "title" : "The Pope at War: The Secret History of Pious XII, Mussolini and Hitler " , 
+        "author" : "David I.Kertzer",
+        "category" : "history"
+        
+   },
+    {
+        "title" : "Just Mercy: A Story of Justice and Redemption " , 
+        "author" : "Bryan Stevenson",
+        "category" : "Law"
+        
+   },
+    {
+        "title" : "Unmasked: My Life Solving America's Cold Cases " , 
+        "author" : "Paul Holes",
+        "category" : "Law"
+           
+    },
+    {
+        "title" : "Nightwing(2016) " , 
+        "author" : "Tom Taylor",
+        "category" : "Comics"
+        
+   },
+    {
+        "title" : "Heartstopper Volume One " , 
+        "author" : "Allice oseman",
+        "category" : "Comics"
+        
+   },
+    {
+        "title" : "Berserk Deluxe edition" , 
+        "author" : "Kentaro  Miura",
+        "category" : "Comics"
+        
+   },
+    {
+        "title" : "The Power Of Crisis" , 
+        "author" : "Ian Bremmer",
+        "category" : "Economics"
+       
+   },
+    {
+        "title" : "The Changing world Order" , 
+        "author" : "Ray Dalio",
+        "category" : "Economics"
+        
+   },
+    {
+        "title" : "The Psychology of Money: Timeless lesson on wealth, greed and happiness" , 
+        "author" : "Morgan Housel",
+        "category" : "Wealth Management"
+       
+   },
+    {
+        "title" : "The Millionaire Next Door: The Surprising Secrets of America's Wealthy" , 
+        "author" : "Thomas J. Stanley",
+        "category" : "Wealth Management"
+        
+   }
+]

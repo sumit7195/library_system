@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e6f"
+  },
+  "title": "It Ends with Us: A Novel",
+  "author": "Collen Hoover",
+  "category": "novel",
+  "status": "false"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e70"
+  },
+  "title": "To Risk It All: Nine Conflicts and Crucible of Decision",
+  "author": "Admiral James Stavridis",
+  "category": "History",
+  "status": "false"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e71"
+  },
+  "title": "The Pope at War: The Secret History of Pious XII, Mussolini and Hitler ",
+  "author": "David I.Kertzer",
+  "category": "history",
+  "status": "false"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e72"
+  },
+  "title": "Just Mercy: A Story of Justice and Redemption ",
+  "author": "Bryan Stevenson",
+  "category": "Law"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e73"
+  },
+  "title": "Unmasked: My Life Solving America's Cold Cases ",
+  "author": "Paul Holes",
+  "category": "Law",
+  "status": "false"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e74"
+  },
+  "title": "Nightwing(2016) ",
+  "author": "Tom Taylor",
+  "category": "Comics"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e75"
+  },
+  "title": "Heartstopper Volume One ",
+  "author": "Allice oseman",
+  "category": "Comics"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e76"
+  },
+  "title": "Berserk Deluxe edition",
+  "author": "Kentaro  Miura",
+  "category": "Comics"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e77"
+  },
+  "title": "The Power Of Crisis",
+  "author": "Ian Bremmer",
+  "category": "Economics"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e78"
+  },
+  "title": "The Changing world Order",
+  "author": "Ray Dalio",
+  "category": "Economics"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e79"
+  },
+  "title": "The Psychology of Money: Timeless lesson on wealth, greed and happiness",
+  "author": "Morgan Housel",
+  "category": "Wealth Management"
+},{
+  "_id": {
+    "$oid": "62925675ba2cb644b2e06e7a"
+  },
+  "title": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
+  "author": "Thomas J. Stanley",
+  "category": "Wealth Management",
+  "status": "false"
+}]
